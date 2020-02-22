@@ -8,6 +8,7 @@ The coding 101 workshop requires some software to be installed on your computer.
 - [Yarn](https://classic.yarnpkg.com/en/docs/install/): Used to download packages that other people have written.
 
 ## Windows
+A video of the setup process has been recorded for you if you get stuck. https://youtu.be/Yv-Se-KbFa8
 
 ### Visual Studio Code
 - Download the windows installer from https://code.visualstudio.com/
