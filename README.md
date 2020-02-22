@@ -19,14 +19,14 @@ The coding 101 workshop requires some software to be installed on your computer.
 - Run the installer once downloaded
 - Follow the installation steps
 - Open the windows command prompt (windows key + R, search for cmd)
-- Verify that node is installed by running `node -v`. The node version (e.g. v12.16.0) should be returned.
+- Verify that node is installed by running `node --version`. The node version (e.g. v12.16.0) should be returned.
 
 ## Yarn
 - Download the windows installer from https://classic.yarnpkg.com/en/docs/install/#windows-stable
 - Run the installer once downloaded
 - Follow the installation steps
 - Open the windows command prompt (windows key + R, search for cmd)
-- Verify that yarn is installed by running `yarn -v`. The yarn version (e.g.v1.22.0) should be returned.
+- Verify that yarn is installed by running `yarn --version`. The yarn version (e.g.v1.22.0) should be returned.
 
 ## MacOS
 
@@ -40,11 +40,11 @@ The coding 101 workshop requires some software to be installed on your computer.
 - Run the installer once downloaded
 - Follow the installation steps
 - Open the terminal app
-- Verify that node is installed by running `node -v`. The node version (e.g. v12.16.0) should be returned.
+- Verify that node is installed by running `node --version`. The node version (e.g. v12.16.0) should be returned.
 
 ## Yarn
 - Download the macOS installer from https://classic.yarnpkg.com/en/docs/install/#mac-stable
 - Run the installer once downloaded
 - Follow the installation steps
 - Open the terminal app
-- Verify that yarn is installed by running `yarn -v`. The yarn version (e.g.v1.22.0) should be returned.
+- Verify that yarn is installed by running `yarn --version`. The yarn version (e.g.v1.22.0) should be returned.
