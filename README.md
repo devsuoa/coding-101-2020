@@ -18,14 +18,14 @@ The coding 101 workshop requires some software to be installed on your computer.
 - Download the windows LTS installer from https://nodejs.org/en/download/
 - Run the installer once downloaded
 - Follow the installation steps
-- Open the windows command prompt (windows key + R, search for cmd)
+- Open the windows command prompt (search for cmd)
 - Verify that node is installed by running `node --version`. The node version (e.g. v12.16.0) should be returned.
 
 ## Yarn
 - Download the windows installer from https://classic.yarnpkg.com/en/docs/install/#windows-stable
 - Run the installer once downloaded
 - Follow the installation steps
-- Open the windows command prompt (windows key + R, search for cmd)
+- Open the windows command prompt (search for cmd)
 - Verify that yarn is installed by running `yarn --version`. The yarn version (e.g.v1.22.0) should be returned.
 
 ## MacOS
