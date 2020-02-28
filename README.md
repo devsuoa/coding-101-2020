@@ -30,22 +30,27 @@ A video of the setup process has been recorded for you if you get stuck. https:/
 - Verify that yarn is installed by running `yarn --version`. The yarn version (e.g.v1.22.0) should be returned.
 
 ## MacOS
+We will use homebrew to install all of the software for mac. Install homebrew by pasting the following command into the terminal (spotlight and search for terminal).
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
 ### Visual Studio Code
-- Download the macOS installer from https://code.visualstudio.com/
-- Run the installer once downloaded
-- Follow the installation steps
+- Run the following command in the terminal
+```
+brew cask install visual-studio-code
+```
 
-## Node.js
-- Download the macOS LTS installer from https://nodejs.org/en/download/
-- Run the installer once downloaded
-- Follow the installation steps
-- Open the terminal app
+### Node.js
+- Run the following command in the terminal
+```
+brew install node
+```
 - Verify that node is installed by running `node --version`. The node version (e.g. v12.16.0) should be returned.
 
-## Yarn
-- Download the macOS installer from https://classic.yarnpkg.com/en/docs/install/#mac-stable
-- Run the installer once downloaded
-- Follow the installation steps
-- Open the terminal app
-- Verify that yarn is installed by running `yarn --version`. The yarn version (e.g.v1.22.0) should be returned.
+### Yarn
+- Run the following command in the terminal
+```
+brew install yarn
+```
+- Verify that yarn is installed by running `yarn --version`. The yarn version (e.g. v1.22.0) should be returned.
