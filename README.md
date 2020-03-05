@@ -73,3 +73,33 @@ brew install yarn
 ```
 
 - Verify that yarn is installed by running `yarn --version`. The yarn version (e.g. v1.22.0) should be returned.
+
+## Ubuntu
+
+### Visual Studio Code
+
+- Run the following command in the terminal
+
+```
+sudo snap install code --classic
+```
+
+### Node.js
+
+- Run the following command in the terminal
+
+```
+sudo snap install node --classic --edge
+```
+
+- Verify that node is installed by running `node --version`. The node version (e.g. v13.0.0-nightly20190802452b393c1f) should be returned.
+
+### Yarn
+
+- Run the following command in the terminal
+
+```
+sudo apt install yarnpkg
+```
+
+- Verify that yarn is installed by running `yarn --version`. The yarn version (e.g. 1.17.3) should be returned.
