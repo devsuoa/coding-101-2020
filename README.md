@@ -103,3 +103,33 @@ sudo apt install yarnpkg
 ```
 
 - Verify that yarn is installed by running `yarn --version`. The yarn version (e.g. 1.17.3) should be returned.
+
+## Arch Linux
+
+### Visual Studio Code
+
+- Run the following command in the terminal
+
+```
+pacman -S code
+```
+
+### Node.js
+
+- Run the following command in the terminal
+
+```
+pacman -S nodejs
+```
+
+- Verify that node is installed by running `node --version`. The node version (e.g. v13.10.0) should be returned.
+
+### Yarn
+
+- Run the following command in the terminal
+
+```
+pacman -S yarn
+```
+
+- Verify that yarn is installed by running `yarn --version`. The yarn version (e.g. v1.22.0) should be returned.
